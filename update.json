@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.20",
-  "apkUrl": "https://github.com/xfxhgx/SQHmcl/releases/download/v1.3.20/SQHmcl-1.3.20.apk",
-  "sha256": "AA9840FF4B2E5EBF4EDA5219DE3C666A94D5948DA9547DF6536DF642A1B34435",
-  "sizeBytes": 234387368,
+  "versionCode": 37,
+  "versionName": "1.3.21",
+  "apkUrl": "https://github.com/xfxhgx/SQHmcl/releases/download/v1.3.21/SQHmcl-1.3.21.apk",
+  "sha256": "1AD42402B07B5235AD4F433F31B944D5606996D0316E421785E0E7B81BF11C84",
+  "sizeBytes": 234388176,
   "minVersionCode": 0,
-  "notes": "1.3.20：检查更新改走 GitHub API（实时，不吃 jsDelivr 的 12 小时缓存）；1.20.1 的 JRE 解压「改名失败」死循环已修；mod 冲突会点名是哪个 mod 再退出（停 5 秒）。"
+  "notes": "1.3.21：更新包下载支持断点续传 + 镜像换源（这条链路只有 60 KB/s，不续传下不完）；检查更新走 GitHub API 实时读取；1.20.1 的 JRE 解压死循环已修；mod 冲突会点名是哪个 mod（停 5 秒）。"
 }
