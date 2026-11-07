@@ -1,0 +1,9 @@
+{
+  "versionCode": 34,
+  "versionName": "1.3.18",
+  "apkUrl": "https://github.com/xfxhgx/SQHmcl/releases/download/v1.3.18/SQHmcl-1.3.18.apk",
+  "sha256": "567383C7E84DF658A8550AC001C180DD2DDA457740F5087B642F3F7CA8339607",
+  "sizeBytes": 234387224,
+  "minVersionCode": 0,
+  "notes": "1.3.18：修好 JRE 解压的「改名失败」死循环（悬空符号链接让 jre21 永远解不开）、mod 冲突时会点名是哪个 mod 再退出、新增从 GitHub 检查更新。"
+}
